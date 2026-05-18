@@ -10,13 +10,13 @@ El proyecto ha sido desarrollado siguiendo una arquitectura modular de component
 
 > _(Nota: Para visualizar correctamente el diseño de la aplicación en producción, se recomienda adjuntar capturas de pantalla reales correspondientes a cada vista en este bloque)._
 
-|    Vista de Inicio (Catálogo)    |   Buscador Avanzado (Filtros)    |
-| :------------------------------: | :------------------------------: |
-| ![Inicio](./capturas/inicio.png) | ![Buscar](./capturas/buscar.png) |
+| Vista de Inicio (Catálogo) | Buscador Avanzado (Filtros) |
+| :------------------------: | :-------------------------: |
+|   ./capturas/inicio.png    |   ./capturas/buscador.png   |
 
-|     Ficha de Detalle (Diario)      | Perfil del Usuario (Estadísticas) |
-| :--------------------------------: | :-------------------------------: |
-| ![Detalle](./capturas/detalle.png) | ![Perfil](./capturas/perfil.png)  |
+| Ficha de Detalle (Diario) | Perfil del Usuario (Estadísticas) |
+| :-----------------------: | :-------------------------------: |
+|  ./capturas/detalle.png   |       ./capturas/perfil.png       |
 
 ---
 
