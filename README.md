@@ -10,13 +10,13 @@ El proyecto ha sido desarrollado siguiendo una arquitectura modular de component
 
 > _(Nota: Para visualizar correctamente el diseño de la aplicación en producción, se recomienda adjuntar capturas de pantalla reales correspondientes a cada vista en este bloque)._
 
-|                          Vista de Inicio (Catálogo)                           |                           Buscador Avanzado (Filtros)                           |
-| :---------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| ![Inicio](https://via.placeholder.com/400x250?text=CineLog+-+Vista+de+Inicio) | ![Buscar](https://via.placeholder.com/400x250?text=CineLog+-+Buscador+Avanzado) |
+|    Vista de Inicio (Catálogo)    |   Buscador Avanzado (Filtros)    |
+| :------------------------------: | :------------------------------: |
+| ![Inicio](./capturas/inicio.png) | ![Buscar](./capturas/buscar.png) |
 
-|                            Ficha de Detalle (Diario)                            |                            Perfil del Usuario (Estadísticas)                             |
-| :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| ![Detalle](https://via.placeholder.com/400x250?text=CineLog+-+Ficha+de+Detalle) | ![Perfil](https://via.placeholder.com/400x250?text=CineLog+-+Perfil+y+Estad%C3%ADsticas) |
+|     Ficha de Detalle (Diario)      | Perfil del Usuario (Estadísticas) |
+| :--------------------------------: | :-------------------------------: |
+| ![Detalle](./capturas/detalle.png) | ![Perfil](./capturas/perfil.png)  |
 
 ---
 
